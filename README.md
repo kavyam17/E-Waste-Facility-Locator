@@ -12,7 +12,3 @@
    `npm run dev`
 
 
-for admin side login
-
-admin: amdin@ecocycle.com
-password: admin123
