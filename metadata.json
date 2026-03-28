@@ -1,0 +1,5 @@
+{
+  "name": "EcoCycle: E-Waste Locator & Rewards",
+  "description": "Locate authorized e-waste recycling facilities, upload proof of disposal, and earn credits through a gamified reward system.",
+  "requestFramePermissions": ["geolocation"]
+}
